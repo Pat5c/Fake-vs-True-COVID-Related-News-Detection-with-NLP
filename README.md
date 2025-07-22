@@ -1,4 +1,7 @@
-# Fake vs True News Detection using NLP
+# Fake vs True COVID Related News Detection using NLP
+
+<img width="994" height="556" alt="image" src="https://github.com/user-attachments/assets/112ae815-6ebb-49e9-bee3-fc117485af41" />
+
 ## I. Introduction
 ### Domain Context
 The COVID-19 pandemic in 2020 was accompanied by a surge in fake news and misinformation, especially around vaccines. This misinformation fueled public fear and resistance, disrupting vaccination campaigns globally. Accurate detection of fake versus true news is critical to support public health efforts and restore trust.
